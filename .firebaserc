@@ -1,0 +1,21 @@
+{
+  "targets": {
+    "abmfirestore-dc68a": {
+      "hosting": {
+        "app": [
+          "abmfirestore-dc68a"
+        ]
+      }
+    },
+    "abmfirestore-39a6d": {
+      "hosting": {
+        "app": [
+          "abmfirestore-39a6d"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "abmfirestore-39a6d"
+  }
+}
